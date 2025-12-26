@@ -5,4 +5,4 @@
 ## Repositorio original [bails](https://github.com/this-xyz/bails) 
 
 
-## Repositorio modificado del original [bails](https://github.com/this-xyz/bails) 
+## Repositorio modificado del original [gatanina](https://github.com/GataNina-Li/Baileys) 
